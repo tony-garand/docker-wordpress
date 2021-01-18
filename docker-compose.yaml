@@ -1,5 +1,5 @@
 # Docker entry point for this project.
-# MySQL NGINX and Wordpress
+# MySQL and Wordpress
 # Author Tony Garand
 
 version: "3.7"

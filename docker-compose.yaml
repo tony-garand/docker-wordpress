@@ -8,6 +8,8 @@ services:
   #Database
   db:
     image: mysql:5.7
+    #remove the bottom line if not on apple m1 chip
+    platform: linux/amd64
     volumes:
       - db_data:/var/lib/mysql
     restart: always

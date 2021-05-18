@@ -13,6 +13,7 @@ install wordpress
 ## Repo Structure
 
 backend (houses wordpress includes/admin)
+
 frontend (houses plugins and themes)
 
 ## Important

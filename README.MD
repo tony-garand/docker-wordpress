@@ -1,6 +1,6 @@
 ## Install
 
-``` git clone ```
+``` git clone https://github.com/tony-garand/docker-wordpress.git```
 
 ``` docker compose up```
 
